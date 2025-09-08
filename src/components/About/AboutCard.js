@@ -8,20 +8,21 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Srineha Mukku </span>
-            from <span className="purple"> Rajahmundry,AP.</span>
-            <br />
-            I am currently pursuing Bachelors of Technology
-            in the department of Information Technology in Shri Vishnu Engineering College For
-            Women,Bhimavaram,AP,India.
-            
-            <br />
-            I am native from city of flowing godavari,Rajahmundry.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            <p>
+              <span className="purple">Information Technology Engineering student</span>,
+              my journey is all about connecting the dots between our digital world and the
+              magic of web-based applications. While I may lean towards introversion, my passion
+              for technology and my drive to make a mark push me to embrace every opportunity
+              that comes my way. 🚀
+              <br /><br />
+              Despite my quiet nature, I’m deeply motivated by the challenge of expressing ideas
+              and contributing to projects that bring value and innovation to the virtual
+              landscape. My academic path has been more than just codes and protocols—it has
+              been an exploration of how technology can transform lives and industries. 🌐
+            </p>
           </p>
           <ul>
+            <b>HOBBIES INCLUDES</b>
             <li className="about-activity">
               <ImPointRight /> Handicrafts
             </li>
@@ -34,7 +35,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "You will get what you deserve may be not now but the very next second!"{" "}
+            "You may wait a moment, a day, or longer—but what you truly deserve never misses its time."{" "}
           </p>
           <footer className="blockquote-footer">Srineha</footer>
         </blockquote>

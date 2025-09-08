@@ -6,7 +6,8 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-
+import Certification
+ from "./Certification";
 function About() {
   return (
     <Container fluid className="about-section">
@@ -34,6 +35,8 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+
+        <Certification/>
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
