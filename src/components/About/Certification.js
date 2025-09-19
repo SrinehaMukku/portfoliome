@@ -34,7 +34,7 @@ function Certification() {
           <Col md={4} className="project-card">
             <CertificationCard
               title="SMART CODER"
-              description=""
+              description="This provided rigorous training in Data Structures and Algorithms (DSA) with hands-on problem solving. It strengthened my ability to design optimized solutions, analyze complexities, and tackle real-world coding challenges. This certification reflects strong interview readiness and competitive programming skills."
               credentialLink="https://smartinterviews.in/certificate/3076fc17"
             />
           </Col>
